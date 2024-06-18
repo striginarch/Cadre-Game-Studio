@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alien Abduction.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alien Abduction.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alien Abduction.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alien Abduction.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "91bf15b0454a477d",
   "lastOpenFiles": [
+    "Alien Abduction.md",
     "Rules of engagement.md",
     "parker Comit.md",
     "Untitled",
-    "README.md",
-    "Alien Abduction.md"
+    "README.md"
   ]
 }
