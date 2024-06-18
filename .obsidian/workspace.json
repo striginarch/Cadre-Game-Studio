@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "1ef8866470e79d11",
+    "id": "7891f01e6f0d8dbc",
     "type": "split",
     "children": [
       {
-        "id": "035b53f7699ccf12",
+        "id": "94fa887d6d67ca76",
         "type": "tabs",
         "children": [
           {
-            "id": "91bf15b0454a477d",
+            "id": "4d3e6663bcee2980",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alien Abduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "28da6b6ca727c205",
+    "id": "f854b4d62fadadd4",
     "type": "split",
     "children": [
       {
-        "id": "502d9bf318082380",
+        "id": "ae9952675c580624",
         "type": "tabs",
         "children": [
           {
-            "id": "1cba0e573c35e294",
+            "id": "e08a231df6fd1c21",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "db1c0ac780e437f9",
+            "id": "48e9625c65b53e6b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "1d5e6fe9a3f8373a",
+            "id": "6f658ccad4e2d782",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "0a02151c4f8040f3",
+    "id": "6eb6e9c275b4d065",
     "type": "split",
     "children": [
       {
-        "id": "ee580ecd3d65489f",
+        "id": "e9dd1f885c19afee",
         "type": "tabs",
         "children": [
           {
-            "id": "787758fb23117853",
+            "id": "32feca99b4518e98",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alien Abduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "22ffb6a786c522c4",
+            "id": "ba677dc80f92f882",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alien Abduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7d07144d409d7e2c",
+            "id": "da0864a66798b07e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "6caf567a50e2500d",
+            "id": "09aff6c084e50e43",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Alien Abduction.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91bf15b0454a477d",
-  "lastOpenFiles": []
+  "active": "4d3e6663bcee2980",
+  "lastOpenFiles": [
+    "Cadre Game Studio/Welcome.md",
+    "Cadre Game Studio/First file.md",
+    "parker Comit.md",
+    "README.md"
+  ]
 }
