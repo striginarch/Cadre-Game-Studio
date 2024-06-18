@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alien Abduction.md",
+                "file": "parker Comit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alien Abduction.md",
+                "file": "parker Comit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alien Abduction.md",
+                "file": "parker Comit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alien Abduction.md"
+                "file": "parker Comit.md"
               }
             }
           }
@@ -147,5 +147,8 @@
     }
   },
   "active": "91bf15b0454a477d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "Alien Abduction.md"
+  ]
 }
