@@ -15,3 +15,10 @@ Thought dump regarding general characteristics of a table top game about alien a
 	- Incompatibilities with your alien's biology and earth's environment making it viable as a future habitat (most advantageous), merely for resource extraction or just for waste deposit (least advantageous).
 	- Compliance with alien federation requirements or fallout through defiance.
 - Gameplay should allow for intense puzzle and resource competition between players with comical backdrops of botched invasions creating humorous scenarios.
+- Observation/Abductions
+	- Locations and methods are more or less difficult based on past successes and failures specific to those locations or methods by all alien races. Players may insert complications to another player's abduction scenario to sabotage the effort. Failures and successes obviously affect all other aliens using that specific method or location.
+	- Components
+		- Location
+		- Method
+		- Technology
+		- Target
